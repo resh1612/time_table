@@ -179,11 +179,8 @@ th {
 
 </style>
 
-# OUTPUT 
-![WhatsApp Image 2024-11-28 at 11 22 41_c3a5875f](https://github.com/user-attachments/assets/28c597fc-a1b4-404b-bffc-1a247644ec4a)
-
-
-
+# OUTPUT
+![output](https://github.com/user-attachments/assets/bddc9e68-28d0-4ed0-950c-d7c04a12a1da)
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.```
