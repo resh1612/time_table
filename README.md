@@ -180,7 +180,7 @@ th {
 </style>
 
 # OUTPUT
-![output](https://github.com/user-attachments/assets/8dfc98b1-654d-4f9f-b890-412a52051c88)
+![output]
 
 
 
