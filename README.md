@@ -180,7 +180,8 @@ th {
 </style>
 
 # OUTPUT 
-![sec1](https://github.com/user-attachments/assets/694c4215-ccea-476c-9916-4d488fec2f92)
+![WhatsApp Image 2024-11-28 at 11 22 41_c3a5875f](https://github.com/user-attachments/assets/28c597fc-a1b4-404b-bffc-1a247644ec4a)
+
 
 
 
