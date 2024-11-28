@@ -1,4 +1,4 @@
-# Ex03 Time Table
+```# Ex03 Time Table
 # Date:28.11.2024
 
 # AIM
@@ -180,8 +180,9 @@ th {
 </style>
 
 # OUTPUT 
-![WhatsApp Image 2024-11-28 at 11 22 41_0184299b](https://github.com/user-attachments/assets/97ca6a7b-28bb-45cd-9a49-8ff8de0fe6a7)
+![sec1](https://github.com/user-attachments/assets/694c4215-ccea-476c-9916-4d488fec2f92)
+
 
 
 # RESULT
-The program for creating slot timetable using basic HTML tags is executed successfully.
+The program for creating slot timetable using basic HTML tags is executed successfully.```
