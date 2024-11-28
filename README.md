@@ -180,7 +180,8 @@ th {
 </style>
 
 # OUTPUT 
-![alt text](image.png)
+![WhatsApp Image 2024-11-28 at 11 22 41_0184299b](https://github.com/user-attachments/assets/97ca6a7b-28bb-45cd-9a49-8ff8de0fe6a7)
+
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
