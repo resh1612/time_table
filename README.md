@@ -180,7 +180,9 @@ th {
 </style>
 
 # OUTPUT
-![output](https://github.com/user-attachments/assets/bddc9e68-28d0-4ed0-950c-d7c04a12a1da)
+![output](https://github.com/user-attachments/assets/8dfc98b1-654d-4f9f-b890-412a52051c88)
+
+
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.```
