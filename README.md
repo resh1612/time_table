@@ -1,4 +1,4 @@
-# Ex03 Time Table
+```# Ex03 Time Table
 # Date:28.11.2024
 
 # AIM
@@ -24,7 +24,7 @@ Add your timetable using <td> tag.
 Execute the program using runserver command.
 
 # PROGRAM
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Time Table</title>
@@ -175,7 +175,7 @@ th {
         </table>
     </div>
 </body>
-</html>```
+</html>
 
 
 
@@ -187,4 +187,4 @@ th {
 
 
 # RESULT
-The program for creating slot timetable using basic HTML tags is executed successfully.
+The program for creating slot timetable using basic HTML tags is executed successfully.```
