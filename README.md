@@ -24,11 +24,65 @@ Add your timetable using <td> tag.
 Execute the program using runserver command.
 
 # PROGRAM
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
     <title>Time Table</title>
     <link rel="stylesheet" href="styles.css">
+<style>
+
+
+body {
+    font-family: cursive, Helvetica, sans-serif;
+    background-color: #dadada;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #45271f;
+    font-size: 20px; 
+    font-weight: 200;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.table-container {
+    width: 95%;
+    margin: 40px auto;
+}
+
+.timetable, .subject-list {
+    width: 100%;
+    font-size: 20px; 
+    border:1px solid black;
+}
+
+th, td {
+    border: 1px solid #0a0a0a; 
+    padding: 3px; 
+    text-align: center;
+}
+
+th {
+    background-color: #312237;
+    color: #eff2f5;
+}
+
+.highlight {
+    background-color: #bebdb8;
+}
+
+.special {
+    background-color: #bdb7ab;
+}
+
+</style>
 </head>
 <body>
     <img src="/static/sec1.jpg" width="100%" height="20%">
@@ -124,60 +178,7 @@ Execute the program using runserver command.
 </html>
 
 
-<style>
 
-
-body {
-    font-family: cursive, Helvetica, sans-serif;
-    background-color: #dadada;
-    margin: 0;
-    padding: 0;
-}
-
-h1 {
-    text-align: center;
-    color: #45271f;
-    font-size: 20px; 
-    font-weight: 200;
-}
-
-img {
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-}
-
-.table-container {
-    width: 95%;
-    margin: 40px auto;
-}
-
-.timetable, .subject-list {
-    width: 100%;
-    font-size: 20px; 
-    border:1px solid black;
-}
-
-th, td {
-    border: 1px solid #0a0a0a; 
-    padding: 3px; 
-    text-align: center;
-}
-
-th {
-    background-color: #312237;
-    color: #eff2f5;
-}
-
-.highlight {
-    background-color: #bebdb8;
-}
-
-.special {
-    background-color: #bdb7ab;
-}
-
-</style>
 
 # OUTPUT
 ![output](https://github.com/user-attachments/assets/f18feaed-13cb-4e8a-91db-51ce83a414e8)
