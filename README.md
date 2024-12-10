@@ -27,7 +27,9 @@ Execute the program using runserver command.
 
 # PROGRAM
 
-```<!DOCTYPE html>
+
+```
+<!DOCTYPE html>
 <html>
 <head>
     <title>Time Table</title>
@@ -178,10 +180,14 @@ th {
         </table>
     </div>
 </body>
-</html>```
+</html>
+```
 
 # OUTPUT
-![output](https://github.com/user-attachments/assets/f18feaed-13cb-4e8a-91db-51ce83a414e8)
+![WhatsApp Image 2024-12-06 at 23 17 11_117a309e](https://github.com/user-attachments/assets/e96ace47-6b7d-4df0-97cc-e374ca41738d)
+
+
+
 
 
 
